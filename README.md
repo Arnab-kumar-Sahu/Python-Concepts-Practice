@@ -47,3 +47,16 @@ Python-Concepts-Practice/
 1. Clone this repository:
 ```bash
 git clone https://github.com/Arnab-kumar-Sahu/Python-Concepts-Practice.git
+2.Navigate to the folder corresponding to the topic you want to study.
+
+3.Open the .py files in your favorite IDE or text editor.
+
+4.Run the scripts and practice modifying them to strengthen your understanding.
+
+Contributing
+
+Contributions are welcome! Feel free to submit pull requests or open issues for bug fixes, improvements, or additional exercises.
+
+License
+
+This project is licensed under the MIT License.
