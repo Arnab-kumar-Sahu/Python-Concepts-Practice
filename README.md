@@ -53,10 +53,4 @@ git clone https://github.com/Arnab-kumar-Sahu/Python-Concepts-Practice.git
 
 4.Run the scripts and practice modifying them to strengthen your understanding.
 
-##Contributing
 
-Contributions are welcome! Feel free to submit pull requests or open issues for bug fixes, improvements, or additional exercises.
-
-##License
-
-This project is licensed under the MIT License.
