@@ -1,0 +1,10 @@
+s='hai welcome to virtual world'
+print(s.endswith('d'))
+print(s.endswith('orld'))
+print(s.endswith('world'))
+print(s.endswith('me',0,11))
+print(s.endswith('virtual',11,22))
+print(s.endswith('to',0,14))
+print(s.endswith('to'))
+print(s.endswith('virtual'))
+print(s.endswith('d',len(s),len(s)))

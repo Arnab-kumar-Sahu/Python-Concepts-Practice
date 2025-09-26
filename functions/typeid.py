@@ -1,0 +1,11 @@
+a=55.69
+print(type(a))
+print(id(a))
+b=55.69
+print(id(b))
+a=69.96
+print(id(a))
+e=True
+print(type(e))
+d=5+4j
+print(type(d))

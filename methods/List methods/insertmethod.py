@@ -1,0 +1,16 @@
+l=[15,35,75]
+l.insert(2,'hai')
+print(l)
+l.insert(0,5)
+print(l)
+l.insert(len(l),[20,50,'shriram'])
+print(l)
+l.insert(2000,'shaktiman')
+print(l)
+l.insert(-1,'ravan')
+print(l)
+l.insert(-100,'indrajit')
+print(l)
+s=[]
+s.insert(0,0.77)
+print(s)

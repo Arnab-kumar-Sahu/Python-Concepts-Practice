@@ -1,0 +1,13 @@
+a=15
+b=15
+c=35
+print(a==b)
+print(a==c)
+print(a!=b)
+print(a!=c)
+print(a<c)
+print(b>c)
+print(a<=b)
+print(a>=b)
+print('hai'>'war')
+print([11,22,33]<[22,33])

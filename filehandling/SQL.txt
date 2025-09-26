@@ -1,0 +1,1 @@
+{"intro": ["hai", "python"], "name": "harshad sir", "age": 30, "male": true, "gender": false, "gf": null}

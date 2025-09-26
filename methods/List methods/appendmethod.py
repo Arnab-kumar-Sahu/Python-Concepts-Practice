@@ -1,0 +1,11 @@
+l=[10,50,30]
+l.append(100)
+print(l)
+l.append(20)
+print(l)
+l.append('hai')
+print(l)
+l.append([100,'hai',{'age':21}])
+print(l)
+l.append(None)
+print(l)
