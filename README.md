@@ -3,12 +3,13 @@
 A comprehensive Python practice repository covering basic to advanced concepts with exercises and solutions.
 
 ## Table of Contents
-- Overview
-- Topics Covered
-- Folder Structure
-- How to Use
-- Contributing
-- License
+- [Overview](#overview)
+- [Topics Covered](#topics-covered)
+- [Folder Structure](#folder-structure)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ## Overview
 This repository includes Python code examples and practice exercises on various topics, helping learners understand both theoretical concepts and practical implementation.
