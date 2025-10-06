@@ -13,4 +13,4 @@ def prime_numbers(LL,UL):
         if isprime(i):
             print(i)
 
-prime_numbers(1,101)
+prime_numbers(2,3)
